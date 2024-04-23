@@ -88,19 +88,4 @@ waiting a week for everybody to leave feedback**.
 
 Thank you,
 
-## License
-
-Guides is ©2024 enyata, inc. It is distributed under the [Creative Commons
-Attribution License](http://creativecommons.org/licenses/by/3.0/).
-
-<!-- START /templates/footer.md -->
-
-This repo is maintained and funded by thoughtbot, inc.
-The names and logos for thoughtbot are trademarks of thoughtbot, inc.
-
-We love open source software!
-See [our other projects][community].
-We are [available for hire][hire].
-
-
 <!-- END /templates/footer.md -->
