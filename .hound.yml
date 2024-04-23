@@ -1,0 +1,20 @@
+coffeescript:
+  enabled: false
+eslint:
+  enabled: true
+  config_file: javascript/.eslintrc.json
+  version: 6.3.0
+haml:
+  enabled: true
+  config_file: haml/haml.yml
+javascript:
+  enabled: false
+rubocop:
+  enabled: true
+  config_file: ruby/.rubocop.yml
+  version: 0.72.0
+scss:
+  enabled: false
+stylelint:
+  enabled: true
+  config_file: sass/.stylelintrc.json
