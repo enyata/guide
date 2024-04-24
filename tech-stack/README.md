@@ -1,4 +1,4 @@
-# thoughtbot Stack
+# enyata Stack
 
 We have a standard technology stack that we use for each new project by default.
 This provides a proven base for rapid, quality development and ensures we have a
@@ -12,8 +12,8 @@ We will also swap in alternate technology as necessary when our default stack is
 inappropriate for the task at hand. This allows us to practice our value of
 [Quality].
 
-[continuous improvement]: https://thoughtbot.com/purpose#continuous-improvement
-[quality]: https://thoughtbot.com/purpose#quality
+[continuous improvement]: https://enyata.com/about-us
+[quality]: https://enyata.com/about-us
 
 ## Core Stack
 
