@@ -21,7 +21,7 @@ describe('CreateUser', () => {
             input2: "",
         })
         .end((err: Error, res: any) => {
-            expect(res.body.message).to.eq(enums.RESOURCE_CREATED('user'));
+            expect(res.body.message).to.eq(enums.RESOURCE_CREATED('resource'));
             done();
         });
     });
@@ -33,7 +33,7 @@ describe('CreateUser', () => {
             input2: "",
         })
         .end((err: Error, res: any) => {
-            expect(res.body.message).to.eq(enums.RESOURCE_EXISTS('user'));
+            expect(res.body.message).to.eq(enums.RESOURCE_EXISTS);
             done();
         });
     });

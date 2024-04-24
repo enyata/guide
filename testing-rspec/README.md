@@ -12,34 +12,6 @@
 for the tests
 - file naming should be in snake_case with a test.ts/test.js extension <be_saga.test.ts/ fe_saga.test.js>.
 
-
-<!-- - Use RSpec's [`expect` syntax].
-- Use RSpec's [`allow` syntax] for method stubs.
-- Use `not_to` instead of `to_not` in RSpec expectations.
-- Prefer the `have_css` matcher to the `have_selector` matcher in Capybara
-  assertions.
-- Avoid `any_instance` in `rspec-mocks` and `mocha`; Prefer [dependency
-  injection].
-- Avoid `its`, `specify`, and `before` in RSpec.
-- Avoid `let` (or `let!`) in RSpec. Prefer extracting helper methods, but do not
-  re-implement the functionality of `let`.
-  [Example](/testing-rspec/avoid_let_spec.rb).
-- Avoid using `subject` explicitly _inside of an_ RSpec `it` block.
-  [Example](/testing-rspec/unit_test_spec.rb).
-- Avoid using instance variables in tests.
-- Disable real HTTP requests to external services with
-  `WebMock.disable_net_connect!`.
-- Don't test private methods.
-- Test background jobs with a [`Delayed::Job` matcher].
-- Use [stubs and spies] \(not mocks\) in isolated tests.
-- Use a single level of abstraction within `it` examples.
-- Use an `it` example or test method for each execution path through the method.
-- Use [assertions about state] for incoming messages.
-- Use stubs and spies to assert you sent outgoing messages.
-- Use a [Fake] to stub requests to external services.
-- Use integration tests to execute the entire app.
-- Use non-[SUT] methods in expectations when possible. -->
-
 [`expect` syntax]: http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax
 [`allow` syntax]: https://github.com/rspec/rspec-mocks#method-stubs
 [dependency injection]: http://en.wikipedia.org/wiki/Dependency_injection
