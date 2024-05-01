@@ -22,3 +22,7 @@
 
 - for javascript projects, use esm, babel or babel-node
 - setup `eslint` rules `quotes: 'single' `
+
+# Security useful links for security
+
+- [security guide]: https://www.nodejs-security.com/book/code-injection?type=book
